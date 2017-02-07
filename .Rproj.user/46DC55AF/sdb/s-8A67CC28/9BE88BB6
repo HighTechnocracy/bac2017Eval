@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "setwd(\"~/R/bac2017Eval\")\n\n## Read the Data\ndata <- read.csv(\"~/R/bac2017Eval/data/heatMapData.csv\")\n\npdf(file = \"~/R/bac2017Eval/visuals/2017heatMap_pre.pdf\")\n## Heatmap Code\ndev.off()",
+    "created" : 1486505262060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1851944943",
+    "id" : "9BE88BB6",
+    "lastKnownWriteTime" : 1486505400,
+    "last_content_update" : 1486505400920,
+    "path" : "~/R/bac2017Eval/bacHeatMap.R",
+    "project_path" : "bacHeatMap.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
